@@ -1,3 +1,3 @@
-FROM circle
+FROM scratch
 MAINTAINER ewindisch@docker.com
-ONBUILD FROM circle
+ONBUILD FROM scratch
